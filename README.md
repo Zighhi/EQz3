@@ -2,7 +2,7 @@
 
 A 3-band analog-style EQ plugin built with JUCE. Features low, mid, and high bands with preamp drive, gain control and VU metering.
 
-![EQz3 Screenshot](Assets/UI.png)
+![EQz3 screenshot](Assets/UI.png)
 
 ## Features
 
