@@ -14,7 +14,7 @@ A 3-band analog-style EQ plugin built with JUCE. Features low, mid, and high ban
 
 ## Installation
 
-1.  Download the [EQz3.vst3](EQz3.vst3)
+1.  Download the [VST](VST)
 2. Copy it to your plugin folder:
    - Windows: `C:\Program Files\Common Files\VST3` or where you keep your .vst files.
 3. Open your DAW and rescan plugins.
